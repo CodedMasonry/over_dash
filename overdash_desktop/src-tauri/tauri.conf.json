@@ -6,7 +6,7 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "over_dash_desktop",
+    "productName": "overdash_desktop",
     "version": "0.0.0"
   },
   "tauri": {
@@ -29,7 +29,7 @@
       {
         "fullscreen": false,
         "resizable": true,
-        "title": "over_dash_desktop",
+        "title": "overdash_desktop",
         "width": 800,
         "height": 600
       }
