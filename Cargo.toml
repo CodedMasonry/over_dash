@@ -1,0 +1,13 @@
+repository = "https://github.com/CodedMasonry/over_dash"
+
+[workspace]
+resolver = "2"
+members = [
+    "overdash_desktop",
+]
+default-members = [
+]
+
+[profile.dist]
+inherits = "release"
+lto = "thin"
